@@ -1,2 +1,1 @@
-# simple_js_todo
-# simple_js_todo
+# This is a very simple todo list written in JS
